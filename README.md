@@ -15,5 +15,5 @@ automatic detection of the two / four disk configuration to build RAID1 or RAID1
   sh gmirror.sh
   
   
-  ### maxN / amhost 2015
+  ### maxN  2015
 
